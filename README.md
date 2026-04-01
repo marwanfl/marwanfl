@@ -1,16 +1,22 @@
-# 👋 Bonjour, je suis Marouan Fliou
-
-### 🎓 Étudiant Ingénieur Génie Électrique — ENSA Oujda
-📍 Taza, Maroc | 📧 marwanfliyou@gmail.com
+<div align="center">
+  <h1>👋 Bonjour, je suis Marouan Fliou</h1>
+  <h3>🎓 Étudiant Ingénieur en Génie Électrique — ENSA Oujda</h3>
+  <p>
+    📍 Taza, Maroc &nbsp;&bull;&nbsp; 📧 <a href="mailto:marwanfliyou@gmail.com">marwanfliyou@gmail.com</a>
+  </p>
+  <p>
+    <a href="https://www.linkedin.com/in/marouan-fliou/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="mailto:marwanfliyou@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  </p>
+</div>
 
 ---
 
 ## 🚀 À propos de moi
-Étudiant ingénieur à l’**ENSAO**, spécialisé en automatisme, électrotechnique, électronique de puissance et systèmes embarqués. 
-Actif dans 3 clubs techniques (**Formula Student**, **Robot & Product Design**, **Club GE**), avec une pratique concrète en programmation microcontrôleurs (C/C++), conception PCB et CAO 3D.
 
-Je maîtrise des outils industriels tels que **MATLAB**, **KiCad**, **Proteus** et **SolidWorks**. 
-Je suis actuellement à la recherche d'un **stage d’observation** pour confronter mes bases académiques au terrain et contribuer avec rigueur à une équipe d’ingénierie.
+Je suis actuellement étudiant ingénieur à l'**École Nationale des Sciences Appliquées d'Oujda (ENSAO)**, spécialisé en automatisme, électrotechnique, électronique de puissance et systèmes embarqués. Passionné par l'innovation technologique, je m'investis activement dans plusieurs clubs techniques universitaires, ce qui me permet de mettre en pratique mes connaissances théoriques à travers des projets concrets.
+
+Je suis à la recherche d'un **stage d'observation** pour confronter mes bases académiques aux réalités du terrain industriel et contribuer avec rigueur au sein d'une équipe d'ingénierie.
 
 ---
 
@@ -20,42 +26,46 @@ Je suis actuellement à la recherche d'un **stage d’observation** pour confron
 | :--- | :--- |
 | **Simulation & Études** | MATLAB, Proteus, KiCad |
 | **Conception & CAO 3D** | SolidWorks, FreeCAD |
-| **Embarqué & Automatisme** | Arduino IDE, C, C++, Microcontrôleurs, Capteurs/Actionneurs |
+| **Embarqué & Automatisme** | Arduino IDE, Microcontrôleurs, Capteurs/Actionneurs |
 | **Langages de Programmation** | C, C++, Python, R |
 | **Langues** | Arabe (Natif), Français (Courant), Anglais (Intermédiaire) |
 
 ---
 
-## 🎓 Formation
-**Cycle Ingénieur — Génie Électrique**  
-🏫 *ENSAO, Taza, Maroc* | En cours  
-*Modules clés :* Électronique analogique & numérique, Automatique, Microcontrôleurs, Électronique de puissance, Électrotechnique, Capteurs & Instrumentation.
+## 💡 Expériences Associatives & Projets
+
+### 🤖 Robot & Product Design Club | *Membre actif*
+- **Programmation embarquée :** Développement en C/C++ sur Arduino, de la rédaction du cahier des charges jusqu'aux tests fonctionnels.
+- **Conception électronique :** Réalisation de circuits imprimés (PCB) sous KiCad et intégration de capteurs/actionneurs dans des architectures temps-réel.
+- **Partage de connaissances :** Animation de formations internes dédiées à la modélisation 3D sous SolidWorks.
+
+### 🏎️ Formula Student | *Membre de l'équipe conception*
+- **Ingénierie automobile :** Contribution à la conception des sous-systèmes électriques d'un véhicule de compétition étudiant.
+- **Gestion de projet :** Travail collaboratif au sein d'une équipe pluridisciplinaire, avec un strict respect des contraintes techniques et calendaires.
+
+### ⚡ Club Génie Électrique | *Membre actif*
+- **Ateliers pratiques :** Participation et organisation d'ateliers techniques axés sur l'électronique analogique/numérique et les systèmes de mesure.
+- **Simulation :** Partage d'expertise sur l'utilisation d'outils de simulation industriels tels que MATLAB et Proteus.
 
 ---
 
-## 💡 Activités & Projets Techniques
+## 🎓 Formation
 
-### 🤖 Robot & Product Design Club | Membre actif
-- Programmation de robots embarqués en **C/C++** sur Arduino (du cahier des charges au test fonctionnel).
-- Conception **PCB** sous KiCad et intégration capteurs/actionneurs dans des architectures temps-réel.
-- Animation de formations internes en modélisation 3D sous **SolidWorks**.
-
-### 🏎️ Formula Student | Membre équipe conception
-- Contribution à la conception de sous-systèmes électriques d’un véhicule de compétition étudiant.
-- Travail en équipe pluridisciplinaire sous contraintes techniques et calendaires strictes.
-
-### ⚡ Club Génie Électrique | Membre actif
-- Ateliers techniques sur l’électronique analogique/numérique et les systèmes de mesure.
-- Partage de connaissances sur les outils de simulation (MATLAB, Proteus).
+**Cycle Ingénieur — Génie Électrique**  
+🏫 *ENSAO, Oujda, Maroc* | *En cours*  
+- **Modules clés :** Électronique analogique & numérique, Automatique, Microcontrôleurs, Électronique de puissance, Électrotechnique, Capteurs & Instrumentation.
 
 ---
 
 ## 🌟 Compétences Transférables
-- **Gestion de projet :** Expérience acquise via les projets robotiques et Formula Student (travail en équipe, respect des délais).
-- **Maintenance & Diagnostic :** Programmation microcontrôleurs et conception PCB.
-- **Communication technique :** Transmission de savoir via les formations SolidWorks.
+
+- **Gestion de projet :** Expérience solide acquise via les projets robotiques et Formula Student (travail en équipe, respect des délais, gestion des ressources).
+- **Maintenance & Diagnostic :** Capacité d'analyse et de résolution de problèmes développée grâce à la programmation de microcontrôleurs et la conception de PCB.
+- **Communication technique :** Aptitude à transmettre le savoir de manière claire et pédagogique, démontrée lors des formations SolidWorks.
 
 ---
 
-> 📬 **Références académiques disponibles sur demande.**  
-> N'hésitez pas à me contacter pour toute opportunité de stage ou collaboration !
+<div align="center">
+  <i>📬 Références académiques disponibles sur demande.</i><br>
+  <b>N'hésitez pas à me contacter pour toute opportunité de stage ou de collaboration !</b>
+</div>
